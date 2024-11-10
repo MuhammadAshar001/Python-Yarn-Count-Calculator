@@ -1,4 +1,3 @@
-Here's a README for your Python Yarn Count System project:
 
 ---
 
