@@ -21,7 +21,7 @@ To run this application, you'll need:
 
 1. Run the script:
     ```bash
-    python yarn_count_calculator.py
+    python filename.py
     ```
 
 2. In the application:
